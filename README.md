@@ -221,14 +221,3 @@ Note that the following is not intended to be used separate from the application
 3. Command to run the weaved jar files :  `java -cp "..\Deps\*;.\aspectjrt.jar;.\gson-2.10.1.jar" softwareEngineering.App`
 
 
-#  **Contributors**
-
-*  [Subham Subhasis Sahoo](https://github.com/subham-71) - 2020CSB1317
-
-*  [Parth Jain](https://github.com/Parth-Jain-2002) - 2020CSB1106
-
-*  [Aman Pankaj Adatia](https://github.com/adatiaaman) - 2020CSB1154
-
-*  [Abhijith T R](https://github.com/Abhijith-TR) - 2020CSB1062
-
-*  [Pratham Kundan](https://github.com/prathamkundan) - 2020CSB1114
